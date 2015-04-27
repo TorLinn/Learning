@@ -1,0 +1,5 @@
+C:\C#\Приложения\Code\Chapter 03\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
+C:\C#\Приложения\Code\Chapter 03\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
+C:\C#\Приложения\Code\Chapter 03\BasicConsoleIO\obj\Debug\BasicConsoleIO.csprojResolveAssemblyReference.cache
+C:\C#\Приложения\Code\Chapter 03\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
+C:\C#\Приложения\Code\Chapter 03\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb
