@@ -1,0 +1,6 @@
+D:\GitHub\Learning\Probi\Project1\Project1\bin\Debug\Project1.exe.config
+D:\GitHub\Learning\Probi\Project1\Project1\bin\Debug\Project1.exe
+D:\GitHub\Learning\Probi\Project1\Project1\bin\Debug\Project1.pdb
+D:\GitHub\Learning\Probi\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+D:\GitHub\Learning\Probi\Project1\Project1\obj\Debug\Project1.exe
+D:\GitHub\Learning\Probi\Project1\Project1\obj\Debug\Project1.pdb
