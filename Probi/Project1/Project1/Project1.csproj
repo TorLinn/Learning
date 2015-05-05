@@ -33,12 +33,13 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
-    <None Include="ClassDiagram2.cd" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Building.cs" />
+    <Compile Include="BuildingDemo.cs" />
     <Compile Include="main.cs" />
     <Compile Include="Primer1.cs" />
+    <Compile Include="Primer10.cs" />
     <Compile Include="Primer2.cs" />
     <Compile Include="Primer3.cs" />
     <Compile Include="Primer4.cs" />
@@ -46,6 +47,7 @@
     <Compile Include="Primer6.cs" />
     <Compile Include="Primer7.cs" />
     <Compile Include="Primer8.cs" />
+    <Compile Include="Primer9.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
