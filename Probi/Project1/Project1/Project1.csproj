@@ -40,6 +40,7 @@
     <Compile Include="main.cs" />
     <Compile Include="Primer1.cs" />
     <Compile Include="Primer10.cs" />
+    <Compile Include="Primer11.cs" />
     <Compile Include="Primer2.cs" />
     <Compile Include="Primer3.cs" />
     <Compile Include="Primer4.cs" />
@@ -48,6 +49,7 @@
     <Compile Include="Primer7.cs" />
     <Compile Include="Primer8.cs" />
     <Compile Include="Primer9.cs" />
+    <Compile Include="Stack.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
